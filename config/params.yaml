@@ -1,0 +1,6 @@
+# SwarmGrid default configuration
+swarmgrid:
+  ros__parameters:
+    num_robots: 5
+    grid_width: 20
+    grid_height: 20
